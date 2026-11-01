@@ -216,6 +216,7 @@
 - [Dropzone](https://aptonic.com/) - Create a popup grid of customizable actions that enhance productivity on your Mac.
 - [f.lux](https://justgetflux.com/) - Automatically adjust your computer screen to match lighting. ![Freeware][Freeware Icon]
 - [Fantastical](https://flexibits.com/fantastical) - Complete Calendar app replacement which uses natural language for creating events.
+- [Grux](https://gruxai.com) - Local-first AI agent with a shell it can undo, your mail, calendar and meetings, on your own API key or a local model with no account. [![Open-Source Software][OSS Icon]](https://github.com/dotcomjack/grux) ![Freeware][Freeware Icon]
 - [Hazel](https://www.noodlesoft.com/hazel.php) - Create rules to automatically keep your files organized.
 - [HazeOver](https://hazeover.com/) - Turn distractions down and focus on your current task.
 - [HyperDock](https://bahoom.com/hyperdock/) - Select individual application window.
